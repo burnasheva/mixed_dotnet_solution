@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Test.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
@@ -7,5 +7,6 @@
     <PackageReference Include="NUnit.Console">
       <Version>3.6.1</Version>
     </PackageReference>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.0.1" />
   </ItemGroup>
 </Project>
