@@ -9,7 +9,7 @@ namespace CoreProject
         [Test]
         public void TestTrue()
         {
-            Assert.IsTrue(true);
+            Assert.IsTrue(true)
         }
     }
 }
